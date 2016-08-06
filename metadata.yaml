@@ -1,0 +1,31 @@
+_repo: Old-Greek-Stories_11582
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Baldwin, James
+    birthdate: 1841
+    deathdate: 1925
+    gutenberg_agent_id: '1982'
+    url: http://www.gutenberg.org/2009/agents/1982
+    wikipedia: http://en.wikipedia.org/wiki/James_Baldwin_(editor_and_author)
+description: ''
+gutenberg_issued: '2004-03-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '11582'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PA'
+- !lcsh 'Mythology, Greek -- Juvenile literature'
+- !lcc 'PZ'
+- GITenberg
+tableOfContents: Jupiter and his mighty company -- The Golden Age -- The story of
+  Prometheus -- The flood -- The story of Io -- The wonderful weaver -- The lord of
+  the silver bow -- Admetus and Alcestis -- Cadmus and Europa -- The quest of Medusa's
+  head -- The story of Atalanta -- the horse and the olive -- the adventures of Theseus
+  -- The wonderful artisan -- The cruel tribute.
+title: Old Greek Stories
+url: http://www.gutenberg.org/ebooks/11582
